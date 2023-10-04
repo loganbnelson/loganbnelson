@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Logan Nelson, a Data Scientist based in Utah, USA. I'm passionate about practical applications of machine learning, AI, and data visualization and have experience with Python, SQL, R, Minitab and more.
+I'm Logan Nelson, a new Data Scientist based in Utah, USA. I'm passionate about practical applications of machine learning, AI, and data visualization and have experience with Python, SQL, R, Minitab and more. I've been working in statistical based problem solving for 10 years as a Process Engineer, but now I'm interested in making the switch to full time Data Science. I'm axious to learn new skills and tools while applying what I know from years of data analysis.
 
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/logan-nelson-15884a38/).
 - 
